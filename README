@@ -1,0 +1,8 @@
+Main Code: lab8.m
+Code consists of:
+1. Read Image
+2. Contrast Enhancement: histeq() and Linear Stretching
+3. Low Pass Filter: Average Filter
+4. LPF and HPF using Vector
+5. Other Filters: Disk, Gaussian, Motion
+6. Edge Strength and Direction
